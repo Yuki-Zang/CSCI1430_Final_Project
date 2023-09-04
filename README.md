@@ -10,4 +10,4 @@ The repository is divided into several directories:
 
 We also included Final Poster and shell script in the root directory.
 
-Team JustSoMeKernels
+Team JustSoMeKernels (Linghai Liu, Shania Guo, Julia Fu, Yuki Zang)
